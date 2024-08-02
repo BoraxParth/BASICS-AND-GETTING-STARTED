@@ -1,6 +1,6 @@
 // Parth Borikar
 // 23070123096
-// Entc B1
+// ENTC B1
 //Experiment 1-Downloading and Installing VS Code, (Hello World and Calculator program)
 
 #include <iostream>
