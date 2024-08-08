@@ -73,3 +73,23 @@ int main()
    }
    return 0;
 }
+
+//Exp 6.4 Floyd series in C++
+#include<iostream>
+using namespace std;
+int main()
+{
+    int i,j,row,n=1;
+    std::cout<<"Enter the number of rows : ";
+    std::cin>>row;
+    for(i=0;i<row;i++)
+    {
+        for(j=0;j<i+1;j++)
+        {
+            cout<<n<<" ";
+            n=n+1;
+        }
+        cout<<endl;
+    }
+    return 0;
+}
