@@ -26,7 +26,7 @@ int main()
 }
 }
 
-//7.2 
+//7.2 Print the array in a reversed order
 #include<iostream>
 using namespace std;
 int main()
