@@ -73,13 +73,16 @@ int main()
 ## Output
 
 1.) Print hello world
-![image](https://github.com/user-attachments/assets/85b9a311-8dc4-4a9b-8559-b86f7fcc94ad)
+![image](https://github.com/user-attachments/assets/749b9a1d-5818-4376-9c61-36c5b8f6f772)
+
 
 2.) Input from user
-![image](https://github.com/user-attachments/assets/b66663b9-09a2-4a71-92a3-6a6c0b57d6cb)
+![image](https://github.com/user-attachments/assets/399b92c2-1239-44d2-a1e3-db0094b2d286)
+
 
 3.) Calculator
-![image](https://github.com/user-attachments/assets/afae3899-c280-4fe1-ab37-ef7f3612701c)
+![image](https://github.com/user-attachments/assets/19eeb2ab-959a-48bc-9332-f843b65c7789)
+
 
 
 # Conclusion
