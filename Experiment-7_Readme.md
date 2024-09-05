@@ -202,7 +202,7 @@ int main()
 using namespace std;
 int main()
 {
-string a= "Prakhar";
+string a= "Parth";
 reverse(a.begin(), a.end());
 cout<<"reverse string is:"<<a<<endl;
 return 0;
@@ -246,20 +246,23 @@ int main()
 
 
 5.) Search element
-<img width="1201" alt="image" src="https://github.com/user-attachments/assets/972e7e59-8797-4533-822d-eb305e941134">
-<img width="1201" alt="image" src="https://github.com/user-attachments/assets/b91e215f-b874-49f0-a459-80b6c33bfbb7">
+![image](https://github.com/user-attachments/assets/9060d6f7-9138-4598-b2a6-7758d0db2790)
 
 6.) USER INPUT
-<img width="1201" alt="Screenshot 2024-08-16 at 11 42 49 PM" src="https://github.com/user-attachments/assets/c42331dc-c5ba-4531-8444-3d70e4197eb3">
+![image](https://github.com/user-attachments/assets/3c251893-1635-4479-babb-325afb9ea88b)
+
 
 7.) CONCATENATION
-<img width="1201" alt="Screenshot 2024-08-16 at 11 43 11 PM" src="https://github.com/user-attachments/assets/fbc3ed9b-7ecb-40c1-90d8-260e3175a791">
+![image](https://github.com/user-attachments/assets/0b336c15-4fb8-4985-87ce-c68613294876)
+
 
 8.) REVERSE STRING
-<img width="1201" alt="Screenshot 2024-08-16 at 11 43 32 PM" src="https://github.com/user-attachments/assets/bdb64aff-f262-4b93-9fac-b3762a674fad">
+![image](https://github.com/user-attachments/assets/f5d46e1f-cfc3-4242-92f0-d37e2f86bb2c)
+
 
 9.) PALINDROME
-<img width="1201" alt="Screenshot 2024-08-16 at 11 44 28 PM" src="https://github.com/user-attachments/assets/5a256397-1ce2-4367-a6b3-fc3cac34d07f">
+![image](https://github.com/user-attachments/assets/d28d19a3-94f4-4495-aca1-60b772bcf968)
+
 
 # Conclusion
 
