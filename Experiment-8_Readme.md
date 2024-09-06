@@ -157,7 +157,7 @@ using namespace std;
 int main()
 
 { int i,j, r1, c1, sum=0, sum2=0;
- cout<<"Enter number of rows and cloumns of matrix: ";
+ cout<<"Enter number of rows and columns of matrix: ";
 cin>>r1>>c1;
 int mat1[r1][c1];
 //Checking if square matrix or not
@@ -249,17 +249,24 @@ for (i=0 ; i<c ; i++)
 
 
 2.) MATRIX ADDITION AND MULTIPLICATION
-<img width="1042" alt="image" src="https://github.com/user-attachments/assets/7891c636-392b-4046-8068-4b3af997b4cf">
-<img width="1042" alt="image" src="https://github.com/user-attachments/assets/cb9a118e-a2dc-4b3e-97ce-b859536b71b5">
-<img width="1171" alt="image" src="https://github.com/user-attachments/assets/f41564fe-65b0-465e-a5e5-897ff235524f">
-<img width="1077" alt="image" src="https://github.com/user-attachments/assets/ff84678a-8a11-4a45-a08a-ead09e993974">
+![image](https://github.com/user-attachments/assets/c5d6ebf7-c879-42e5-b35d-c687ac5bda48)
+
+![image](https://github.com/user-attachments/assets/1abbb4dd-c11e-4e25-ab6a-575bdfe9350c)
+
+![image](https://github.com/user-attachments/assets/8ac389e0-0766-4ea8-9825-4f7caaa01251)
+
+![image](https://github.com/user-attachments/assets/9d604a29-1fb3-490b-ae09-783cbdfff36b)
+
 
 3.) ADDITION OF DIAGONAL ELEMENTS
-<img width="1180" alt="image" src="https://github.com/user-attachments/assets/8d153a92-8a30-44a2-a67a-5bb142ceb06c">
-<img width="1180" alt="image" src="https://github.com/user-attachments/assets/e50b2e0d-9ec5-4444-8100-36d575c71cc9">
+![image](https://github.com/user-attachments/assets/05d1d778-771d-4f3e-bd10-aa98151be9c9)
+
+![image](https://github.com/user-attachments/assets/a0c6dda1-74b7-4f5b-9f3a-c2d72ea9b347)
+
 
 4.) TRANSPOSE OF A MATRIX
-<img width="1103" alt="image" src="https://github.com/user-attachments/assets/c2b9035a-fe9b-4273-ac4c-9558f5e33ff1">
+![image](https://github.com/user-attachments/assets/e26581c0-5510-40cd-ac7d-4b2ffd40b876)
+
 
 
 # Conclusion
