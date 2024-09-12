@@ -1,8 +1,7 @@
 # Basics-of-C++
-This repository contains experiments 9, 10 which are related to the pointers in C++.
+This repository contains experiment 10 which is related to the pointers in C++.
 
 # Pointers
-# EXPERIMENT 9:
 ## Aim: 
 To study and implement call by value and call by reference.
 ## Theory: 
