@@ -138,17 +138,22 @@ int main()
 # Output
 
 1.) CAR DETAILS
-<img width="1069" alt="image" src="https://github.com/user-attachments/assets/d6f2849b-8d13-4cdd-b2a7-f60e3d7b46f2">
+![image](https://github.com/user-attachments/assets/7bf2dbfb-c8e3-427e-b88f-265f8c0b9388)
+
+
 
 
 2.) CLASS BY FUNCTION
-<img width="1069" alt="image" src="https://github.com/user-attachments/assets/06453d87-7d52-4b5f-9b0c-498b83c58a54">
+![image](https://github.com/user-attachments/assets/7a2b9128-011d-4808-9139-5fa33d7819f1)
+
 
 3.) AREA OF RECTANGLE
-<img width="1069" alt="image" src="https://github.com/user-attachments/assets/6138c8ec-2e42-4fec-a4ac-afd96280aba7">
+![image](https://github.com/user-attachments/assets/32c6bc42-4e7b-45b8-a030-12da364efb6b)
+
 
 4.) USER CLASS
-<img width="1069" alt="image" src="https://github.com/user-attachments/assets/1c33a8b3-5748-4571-9022-174abe4392e4">
+![image](https://github.com/user-attachments/assets/4520cbed-d301-433a-b65b-baea12db1447)
+
 
 # Conclusion
 
